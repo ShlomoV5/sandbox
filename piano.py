@@ -1,3 +1,8 @@
+# todo
+# learn the pyaudio library and play with it
+# using cli only, no pygame.
+# later, pygame.
+
 import pygame
 import numpy as np
 import pyaudio
