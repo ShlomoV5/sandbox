@@ -125,8 +125,8 @@ def main():
     
     # Save or display the pixelated image
     image_array = image_to_hex_array(pixelated_image)
-    print(image_array)
-    print(len(image_array))
+    # print(image_array)
+    # print(len(image_array))
     # pixelated_image.show()
     hex_array_to_image(image_array).show()
     # pixelated_image.save("pixelated_image.png")  # Uncomment to save the pixelated image
